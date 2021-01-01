@@ -3,11 +3,26 @@ SUBTASK 2
 - K.T.
 He is the only first year student who has cracked GSoC, and he is always ready to help.
 
+-B.D-
+He is a senator and very helpful and kind. He is a very good friend.
+
+A.C-
+He is my tech father and very helpful and friendly.
+
+- K.T.
+He is the only first year student who has cracked GSoC, and he is always ready to help.
+
 - P.S.B.
 He is a fun person to work with, and he has an Intriguing Personality
 
+-B.D-
+He is a senator and very helpful and kind. He is a very good friend.
+
 - H.S.P.
 Whenever you need to intimidate someone, you can always rely on him, and he is always ready to help.
+
+A.C-
+He is my tech father and very helpful and friendly.
 
 - P.S.
 He is a must to have, when working in a team and has amazing App Development Skills
@@ -15,8 +30,3 @@ He is a must to have, when working in a team and has amazing App Development Ski
 - Y.G.
 She has also got amazing App Development Skills, and is a nice person.
 
--V.M.
-sir is a nice person and help others.
-
--S.S.
-sir have an good nature and help others.
